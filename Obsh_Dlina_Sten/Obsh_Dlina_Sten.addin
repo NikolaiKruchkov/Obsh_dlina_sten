@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Obsh_Dlina_Sten.dll"</Assembly>		
+		<AddInId>D612E9A5-E87F-4DE7-9B4A-9F7B5C0543F7</AddInId>		
+		<FullClassName>Obsh_Dlina_Sten.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Общая длина стен</Text>
+	</AddIn>
+</RevitAddIns>
